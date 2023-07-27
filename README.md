@@ -1,5 +1,5 @@
-### Hello, welcome to my place!
-### My name is Ângela and i'm starting to programing in C language. 
+### Hello, welcome to my programmer profile
+###    
 
 <!--
 **angellusj/angellusj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
