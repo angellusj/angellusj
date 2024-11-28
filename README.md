@@ -7,6 +7,7 @@
 </div>
 
 
-# Projetos em que colaboro
+## Projetos em que colaboro
 ###
-- [ML para predição do ICC] (https://github.com/cilab-ufersa/ML-para-predicao-de-ICC.git): Projeto que usa machine learning para predizer insuficiência cardíaca crônica em pacientes que tiveram infarto do miocárdio, desenvolvido em python.
+- ML para predição do ICC (https://github.com/cilab-ufersa/ML-para-predicao-de-ICC.git): Projeto que usa modelos de machine learning para predizer insuficiência cardíaca crônica em pacientes que tiveram infarto do miocárdio, desenvolvido em python.
+- AutoPeças chabas (https://github.com/felipehidequel/AutopecasChabas.git): Sistema focado ao apoio no gerenciamento de estoque e clientes de uma loja de auto peças.
