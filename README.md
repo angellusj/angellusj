@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Davi+Maia;I'm+21+years+old;I+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Ângela+Aquino;I'm+20+years+old;I'm+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1cbc620a-e0d4-43eb-a6f9-25497d9dca1c"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
@@ -76,19 +76,3 @@
 ![github-contribution-grid-snake](https://github.com/angellusj/angellusj/assets/72363511/522e1c76-bd3b-45dc-a89d-418ab9c0697f)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=footer"/>
-
-
-
-### Hello, welcome to my programmer profile
-###    
-<div align="center">
-  <a href="https://github.com/angellusj">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=angellusj&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellusj&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
-
-## Projetos em que colaboro
-###
-- ML para predição do ICC (https://github.com/cilab-ufersa/ML-para-predicao-de-ICC.git): Projeto que usa modelos de machine learning para predizer insuficiência cardíaca crônica em pacientes que tiveram infarto do miocárdio, desenvolvido em python.
-- AutoPeças chabas (https://github.com/felipehidequel/AutopecasChabas.git): Sistema focado ao apoio no gerenciamento de estoque e clientes de uma loja de auto peças.
