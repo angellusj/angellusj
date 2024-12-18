@@ -20,7 +20,7 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)&nbsp;
-
+![Java](https://img.shields.io/badge/java-744e3b?style=for-the-badge&logo=coffeescript&logoColor=black)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
