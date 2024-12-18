@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Ângela+Aquino;I'm+20+years+old;I'm+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
-    <img align="left"width=12% src="[https://github.com/Davi-index/Davi-index/assets/72363511/1cbc620a-e0d4-43eb-a6f9-25497d9dca1c](https://github.com/user-attachments/assets/c5dbdaa1-f905-45fc-b520-d62805e88f73)"/>
+    <img align="left"width=22% src="https://github.com/user-attachments/assets/a22d2fa2-a991-4b7e-85d9-d0fb9382dec7"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
     <p align="center"> Hello, my name is Ângela, I'm Back-end Developer</p>
     <p align="center">B.T.I</p>
+
 
     
 <div>
