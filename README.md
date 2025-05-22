@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Ângela+Aquino;I'm+20+years+old;I'm+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
-    <img align="left"width=14% src="https://github.com/user-attachments/assets/a22d2fa2-a991-4b7e-85d9-d0fb9382dec7"/>
+    <img align="left"width=17% src="https://github.com/user-attachments/assets/a22d2fa2-a991-4b7e-85d9-d0fb9382dec7"/>
     <img align="right"width=8% src="https://github.com/user-attachments/assets/43fc629d-3734-4e4b-86ef-c71fc1e362e7"/>
     <p align="center"> Hello, my name is Ângela, I'm Back-end Developer</p>
     <p align="center">B.T.I</p>
