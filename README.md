@@ -4,8 +4,9 @@
 <div>
     <img align="left"width=17% src="https://github.com/user-attachments/assets/a22d2fa2-a991-4b7e-85d9-d0fb9382dec7"/>
     <img align="right"width=8% src="https://github.com/user-attachments/assets/43fc629d-3734-4e4b-86ef-c71fc1e362e7"/>
-    <p align="center"> Hello, my name is Ângela, I'm Back-end Developer</p>
-    <p align="center">B.T.I</p>
+    <p align="center"> I'm studying BTI at UFERSA </p>
+    <p align="center"> I'm becoming a Fullstack developer </p>
+    <p align="center"> No coffee, no code </p>
 
 
     
@@ -32,9 +33,8 @@
 #### Studying in this moment:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-744e3b?style=for-the-badge&logo=coffeescript&logoColor=black)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-624991?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C#-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Databases:
 
