@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+my+name+is+Ângela+Aquino;I'm+21+years+old;and+I'm+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
     <img align="left"width=10% src="https://github.com/user-attachments/assets/58570eed-3fcd-4a12-b314-44b9bfee094d"/>
-    <img align="right"width=10% src="https://github.com/user-attachments/assets/43fc629d-3734-4e4b-86ef-c71fc1e362e7"/>
+    <img align="right"width=10% src="https://github.com/user-attachments/assets/e98cdabd-ae19-4785-ab41-71f7f8878404"/>
     <p align="center"> I'm studying BTI at UFERSA</p>
     <p align="center"> I'm becoming a Fullstack developer</p>
     <p align="center"> No coffee, no code</p>
-
 
     
 <div>
