@@ -48,7 +48,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellusj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
     <img align="left"width=22% src="https://github.com/user-attachments/assets/d6271620-46d8-44fc-85f3-b550ca9114ce"/>
-    <img align="right"width=16% src="https://github.com/user-attachments/assets/5533e2ab-c81a-4fff-8ad0-f5cdb21f64ca"/>
+    <img align="right"width=35% src="https://github.com/user-attachments/assets/46653ea4-fd2d-4b54-9722-0b216ef3126a"/>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
     
