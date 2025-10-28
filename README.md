@@ -5,7 +5,7 @@
     <img align="left"width=10% src="https://github.com/user-attachments/assets/58570eed-3fcd-4a12-b314-44b9bfee094d"/>
     <img align="right"width=10% src="https://github.com/user-attachments/assets/e98cdabd-ae19-4785-ab41-71f7f8878404"/>
     <p align="center"> I'm studying to become a Java developer</p>
-    <p align="center"> I also love learn new programming languages</p>
+    <p align="center"> I also love learning new programming languages</p>
     <p align="center"> No coffee, no code!</p>
 
     
