@@ -27,7 +27,7 @@
 
 #### Secondary Stack:
 
-![Django](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 
 #### Framework:
 
