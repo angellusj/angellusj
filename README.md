@@ -63,7 +63,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-## <img src="https://github.com/user-attachments/assets/381cffc2-b2d5-41a3-b0dc-9d074a13b12a" width="50px"><b> Contacts </b>
+## <img src="https://github.com/user-attachments/assets/c047a1fe-aacf-41eb-974c-2c24fdbe2e72" width="65px"><b> Contacts </b>
 <div> 
 <p align="center">
 <a href="https://www.linkedin.com/in/ângela-maria-de-aquino-souza/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
