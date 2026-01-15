@@ -56,7 +56,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="left">
 	<img src="https://github.com/user-attachments/assets/678d0314-a900-4cdc-9519-5fa7a08e5b8b" width="200px" align="right" alt="cat">
-	<img src="https://github.com/user-attachments/assets/bf5a5515-1f97-4607-b659-ce973a09d76b" min-width="200px" max-width="200px" width="200px" align="right" alt="Emoji drinking coffee while programming">
   	<img src="https://raw.githubusercontent.com/angellusj/github-stats-terminal-style/refs/heads/master/github_stats.svg" width="320">
 </div>
 <br><br>
