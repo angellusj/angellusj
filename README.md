@@ -54,15 +54,26 @@
 ![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)&nbsp;
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="left">
-	<img src="https://github.com/user-attachments/assets/678d0314-a900-4cdc-9519-5fa7a08e5b8b" width="200px" align="right" alt="cat">
-  	<img src="https://raw.githubusercontent.com/angellusj/github-stats-terminal-style/refs/heads/master/github_stats.svg" width="320">
-</div>
-<br><br>
+<div align="center">
+	<!-- <img src="https://github.com/user-attachments/assets/678d0314-a900-4cdc-9519-5fa7a08e5b8b" width="200px" align="right" alt="cat"> -->
+	<picture>
+  		<source srcset="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  		<img src="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_general.svg">
+	</picture>
+	<picture>
+  		<source srcset="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  		<img src="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_langs.svg">
+	</picture>
+	<picture>
+  		<source srcset="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  		<img src="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_commits.svg">
+	</picture>
+</div>div>
 
-<img src="https://github.com/user-attachments/assets/082bebdf-283a-4b50-9421-fb88864a3e17" width="200px" align="right" alt="wooper">
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angellusj&layout=donut&theme=transparent)](https://github.com/angellusj/github-readme-stats)
+<!-- <img src="https://github.com/user-attachments/assets/082bebdf-283a-4b50-9421-fb88864a3e17" width="200px" align="right" alt="wooper"> -->
+
+<!-- [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angellusj&layout=donut&theme=transparent)](https://github.com/angellusj/github-readme-stats) -->
 
 ## <img src="https://github.com/user-attachments/assets/fa595728-069c-495c-94c2-488163050778" width="25"><b> Snake eating my commit stats </b>
 <p align = "center">
