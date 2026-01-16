@@ -68,12 +68,7 @@
   		<source srcset="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   		<img src="https://raw.githubusercontent.com/angellusj/gh-stats/main/output/stats_commits.svg">
 	</picture>
-</div>div>
-
-
-<!-- <img src="https://github.com/user-attachments/assets/082bebdf-283a-4b50-9421-fb88864a3e17" width="200px" align="right" alt="wooper"> -->
-
-<!-- [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angellusj&layout=donut&theme=transparent)](https://github.com/angellusj/github-readme-stats) -->
+</div>
 
 ## <img src="https://github.com/user-attachments/assets/fa595728-069c-495c-94c2-488163050778" width="25"><b> Snake eating my commit stats </b>
 <p align = "center">
